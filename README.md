@@ -8,8 +8,8 @@
 
 <br>
 
-### [Bronze🥉](https://github.com/swuhyeon/BOJ/tree/main/Bronze)
- - [Bronze V](https://github.com/swuhyeon/BOJ/tree/main/Bronze/Bronze%20V)
+### [Bronze🥉](https://github.com/swuhyeon/boj-python/tree/main/Bronze)
+ - [Bronze V](https://github.com/swuhyeon/boj-python/tree/main/Bronze/Bronze%20V)
  - [Bronze IV]
  - [Bronze III]
  - [Bronze II]
