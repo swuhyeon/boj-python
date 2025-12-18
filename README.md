@@ -8,25 +8,25 @@
 
 <br>
 
-### [Bronze🥉](https://github.com/swuhyeon/boj-python/tree/main/Bronze)
- - [Bronze V](https://github.com/swuhyeon/boj-python/tree/main/Bronze/Bronze%20V)
- - [Bronze IV]
- - [Bronze III]
- - [Bronze II]
- - [Bronze I]
+### [bronze🥉](https://github.com/swuhyeon/boj-python/tree/main/bronze)
+ - [bronze V](https://github.com/swuhyeon/boj-python/tree/main/bronze/bronze%20V)
+ - [bronze IV]
+ - [bronze III]
+ - [bronze II]
+ - [bronze I]
 
-### [Silver🥈]
- - [Silver V]
- - [Silver IV]
- - [Silver III]
- - [Silver II]
- - [Silver I]
+### [silver🥈]
+ - [silver V]
+ - [silver IV]
+ - [silver III]
+ - [silver II]
+ - [silver I]
 
-### [Gold🥇]
- - [Gold V]
- - [Gold IV]
- - [Gold III]
- - [Gold II]
- - [Gold I]
+### [gold🥇]
+ - [gold V]
+ - [gold IV]
+ - [gold III]
+ - [gold II]
+ - [gold I]
 
-### [Unranked]
+### [unranked]
