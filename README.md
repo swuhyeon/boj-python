@@ -6,8 +6,6 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shsh010914)](https://solved.ac/shsh010914)
 
-<br>
-
 ### [bronze🥉](https://github.com/swuhyeon/boj-python/tree/main/bronze)
  - [bronze V](https://github.com/swuhyeon/boj-python/tree/main/bronze/bronze%20V)
  - [bronze IV]
@@ -28,5 +26,3 @@
  - [gold III]
  - [gold II]
  - [gold I]
-
-### [unranked]
