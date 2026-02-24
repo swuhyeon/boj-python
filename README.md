@@ -1,7 +1,4 @@
 # 🏆 boj-python
-
-> 한 발자국씩 나아가다 보니
-
 <br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shsh010914)](https://solved.ac/shsh010914)
